@@ -31,13 +31,13 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-### Coffee Express is built using the following technologies:
+### Launchify is built using the following technologies:
 
-- This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
-- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
+<li>This project uses the Laravel web development framework for the backend. Laravel is a robust PHP framework that provides powerful tools for building scalable and maintainable applications, with built-in support for routing, authentication, and database management.</li>
+<li>For the database, Launchify uses MySQL, a reliable and widely-used relational database that ensures efficient data storage and retrieval, providing the platform with a solid foundation for managing startup, mentor, and investor information.</li>
+<li>The frontend of the platform is built using React, a modern JavaScript library for building user interfaces. React allows for creating dynamic and responsive components that provide a seamless user experience across different devices.</li>
+<li>For handling payments, Launchify integrates Stripe, a secure and scalable payment gateway that enables startups to manage transactions with ease and ensures investors can make safe, real-time investments.</li>
+<li>To enable real-time communication features, Launchify uses WebSocket. This technology allows mentors and startups to engage in live chat sessions, enhancing communication and collaboration.</li>
 
 <br><br>
 
