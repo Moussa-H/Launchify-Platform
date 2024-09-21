@@ -14,7 +14,7 @@ Startup
 As a startup, I want to input my business data so I can receive tailored strategies to reach my goals.<br>
 As a startup, I want to track my financial performance using the finance dashboard, so I can make informed decisions.<br>
 As a startup, I want to request mentorship through the platform, so I can gain expert guidance and advice.<br>
-As a startup, I want to provide detailed information about my investment needs, so I can attract potential investors.<br><br>
+As a startup, I want to provide detailed information about my investment needs, so I can attract potential investors.<br>
 
 Investor
 
