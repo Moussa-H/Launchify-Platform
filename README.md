@@ -5,7 +5,7 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-Launchify is designed to provide startups with essential tools and strategies to achieve their business goals. By offering a comprehensive, data-driven platform, Launchify helps startups streamline processes, manage financial performance, connect with mentors, and secure investment opportunities. This holistic approach empowers startups to focus on innovation while receiving tailored support, ensuring a more efficient path to success. Through mentorship, financial analysis, and investment facilitation, Launchify fosters an environment where startups can thrive and reach their full potential
+>Launchify is designed to provide startups with essential tools and strategies to achieve their business goals. By offering a comprehensive, data-driven platform, Launchify helps startups streamline processes, manage financial performance, connect with mentors, and secure investment opportunities. This holistic approach empowers startups to focus on innovation while receiving tailored support, ensuring a more efficient path to success. Through mentorship, financial analysis, and investment facilitation, Launchify fosters an environment where startups can thrive and reach their full potential
 
 ### User Stories
 
@@ -44,9 +44,9 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 <!-- UI UX -->
 <img src="./readme/title4.svg"/>
 
-> We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
+> We designed Launchify using wireframes and mockups, refining the interface through multiple iterations to achieve an intuitive layout that ensures easy navigation and an optimal user experience.
 
-- Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
+- Project Figma design [figma](https://www.figma.com/design/OchjRDJIXGTsZvAcgiX8Jq/Platform-Startup-assistance?node-id=0-1&t=mNU2gk70JUhu0IVy-1)
 
 ### Mockups
 
