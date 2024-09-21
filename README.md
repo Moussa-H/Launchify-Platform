@@ -20,7 +20,7 @@ Investor
 
 As an investor, I want to browse startup profiles and investment opportunities, so I can find projects that align with my interests.<br>
 As an investor, I want to view detailed startup information, so I can make informed investment decisions.<br>
-<br>
+
 Mentor
 
 As a mentor, I want to accept or decline mentoring requests, so I can manage my engagements with startups effectively.<br>
