@@ -5,15 +5,26 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A mobile app for ordering coffee on-the-go, making it easier for coffee lovers to get their favorite beverages without waiting in line.
->
-> Coffee Express aims to streamline the coffee-ordering process by providing a user-friendly platform for customers to place orders and pick up their coffee at their convenience. We believe in enhancing the coffee experience by saving time and ensuring customer satisfaction.
+Launchify is designed to provide startups with essential tools and strategies to achieve their business goals. By offering a comprehensive, data-driven platform, Launchify helps startups streamline processes, manage financial performance, connect with mentors, and secure investment opportunities. This holistic approach empowers startups to focus on innovation while receiving tailored support, ensuring a more efficient path to success. Through mentorship, financial analysis, and investment facilitation, Launchify fosters an environment where startups can thrive and reach their full potential
 
 ### User Stories
 
-- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
-- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
-- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
+Startup
+
+As a startup, I want to input my business data so I can receive tailored strategies to reach my goals.
+As a startup, I want to track my financial performance using the finance dashboard, so I can make informed decisions.
+As a startup, I want to request mentorship through the platform, so I can gain expert guidance and advice.
+As a startup, I want to provide detailed information about my investment needs, so I can attract potential investors.
+
+Investor
+
+As an investor, I want to browse startup profiles and investment opportunities, so I can find projects that align with my interests.
+As an investor, I want to view detailed startup information, so I can make informed investment decisions.
+
+Mentor
+
+As a mentor, I want to accept or decline mentoring requests, so I can manage my engagements with startups effectively.
+As a mentor, I want to offer advice and guidance to startups, so I can help them grow and succeed.
 
 <br><br>
 
