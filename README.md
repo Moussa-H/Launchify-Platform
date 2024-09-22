@@ -63,13 +63,12 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
 
-
 ### Admin Screens (Web)
 
-| Register screen                            | Login screen                       | Landing screen                        |
-| --------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/Login.gif) | ![fsdaf](./readme/Profile.gif) | ![fsdaf](./readme/Profile.mp4) |
-| Startup Profile screen                             | Investor Profile Screen                           | MEntor Profile Screen                          |
+| Register screen                               | Login screen                                 | Landing screen                             |
+| --------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
+| ![Landing](./readme/Login.gif)                | ![fsdaf](./readme/Profile.gif)               | ![fsdaf](./readme/Profile.mp4)             |
+| Startup Profile screen                        | Investor Profile Screen                      | MEntor Profile Screen                      |
 | ![Landing](./readme/demo/Startup-Profile.jpg) | ![fsdaf](./readme/demo/Investor-Profile.jpg) | ![fsdaf](./readme/demo/Mentor-Profile.jpg) |
 
 <br><br>
@@ -81,7 +80,11 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 
 - The AI strategy generation function integrates with OpenAI's GPT model to create personalized business strategies for startups. It pulls data specific to each startup, such as industry, key challenges, and goals, to generate five actionable strategies following a structured format. Each strategy includes a name, description, action steps, and potential challenges. The AI request is securely made using the OpenAI API, and the generated strategies are parsed, stored in the database, and returned as a response to the user. This process ensures tailored and relevant strategic insights to address the startup's unique circumstances.
 
-<br><br>
+<br>
+
+<img src="./readme/demo/Openai-startegies.png" alt="openai"/>
+
+<br>
 
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
@@ -100,7 +103,6 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 - This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
 
 <img src="./readme/testing.png" alt="testing"/>
-
 
 <br><br>
 
@@ -122,11 +124,10 @@ MySQL: <a href="https://www.mysql.com/downloads"> Download MySQL</a><br>
 
 1. Clone the repository
 
-
-  ```sh
-  git clone https://github.com/Moussa-H/Launchify-Platform.git
-  cd Launchify-Platform
-  ```
+```sh
+git clone https://github.com/Moussa-H/Launchify-Platform.git
+cd Launchify-Platform
+```
 
 2. Create a .env file in the root of your Laravel project and add the following lines:
 
@@ -145,26 +146,26 @@ DB_PORT=3306
 DB_DATABASE=db_launchify
 DB_USERNAME=root
 
-  ```
+```
 
 3. Run the migrations to set up the database:
 
-  ```sh
+```sh
 php artisan migrate
-  ```
+```
+
 4. Start the Laravel server:
 
-  ```sh
+```sh
 php artisan serve
-  ```
+```
 
 5. Navigate to the React frontend directory and install the dependencies:
 
-
-  ```sh
+```sh
 cd frontend
 npm install
 
-  ```
+```
 
 Now you should be able to run Launchify locally and explore its features.
