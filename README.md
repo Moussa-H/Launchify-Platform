@@ -113,10 +113,10 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 
 Ensure that you have the following installed on your machine:
 
-Node.js: <a href="https://nodejs.org/en"> Download Node.js</a>
-Laravel: <a href="https://laravel.com/docs/11.x/installation"> Install Laravel</a>
-Composer: <a href="https://getcomposer.org/download/"> Install Composer</a>
-MySQL: <a href="https://www.mysql.com/downloads"> Download MySQL</a>
+Node.js: <a href="https://nodejs.org/en"> Download Node.js</a><br>
+Laravel: <a href="https://laravel.com/docs/11.x/installation"> Install Laravel</a><br>
+Composer: <a href="https://getcomposer.org/download/"> Install Composer</a><br>
+MySQL: <a href="https://www.mysql.com/downloads"> Download MySQL</a><br>
 
 ### Installation
 
