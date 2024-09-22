@@ -75,7 +75,7 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 
 | Register screen                            | Login screen                       | Landing screen                        |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/Startup-Register.gif) | ![fsdaf](./readme/Startup-Login.gif) | ![fsdaf](./readme/Profile.mp4) |
+| ![Landing](./readme/Login.gif) | ![fsdaf](./readme/Profile.gif) | ![fsdaf](./readme/Profile.mp4) |
 | Home screen                             | Menu Screen                           | Order Screen                          |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
