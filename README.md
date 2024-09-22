@@ -107,31 +107,64 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> TTo set up Launchify locally, follow these steps:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Ensure that you have the following installed on your machine:
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Node.js: <a href="https://nodejs.org/en"> Download Node.js</a>
+Laravel: <a href="https://laravel.com/docs/11.x/installation"> Install Laravel</a>
+Composer: <a href="https://getcomposer.org/download/"> Install Composer</a>
+MySQL: <a href="https://www.mysql.com/downloads"> Download MySQL</a>
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+1. Clone the repository
 
-1. Get a free API Key at [example](https://example.com)
-2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
 
-Now, you should be able to run Coffee Express locally and explore its features.
+  ```sh
+  git clone https://github.com/Moussa-H/Launchify-Platform.git
+  cd Launchify-Platform
+  ```
+
+2. Create a .env file in the root of your Laravel project and add the following lines:
+
+```sh
+STRIPE_SECRET=sk_test_51Pyj3MFplAWf40dFgizow74eA027J0CJzbar5OyZc3nSmwJzOpCaEhhlvVNwrIu9htUdsmBmCsP3WvKBYAqYaPlQ00fYna4nCN
+STRIPE_PUBLIC=pk_test_51Pyj3MFplAWf40dFg9WmvWgNbtyEBJ4DMqqKNIKM9bRswHgFQWLn7VqmVfd4LcJddFf2BfSHmjRQJY6bWYF4y7UQ00iAw5WP3j
+BROADCAST_DRIVER=pusher
+PUSHER_APP_ID=1865409
+PUSHER_APP_KEY=a6d62ad7353778a90be9
+PUSHER_APP_SECRET=18d4522271643cb868fa
+PUSHER_APP_CLUSTER=eu
+ML_SERVICE_URL=http://localhost:5000
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=db_launchify
+DB_USERNAME=root
+
+  ```
+
+3. Run the migrations to set up the database:
+
+  ```sh
+php artisan migrate
+  ```
+4. Start the Laravel server:
+
+  ```sh
+php artisan serve
+  ```
+
+5. Navigate to the React frontend directory and install the dependencies:
+
+
+  ```sh
+cd frontend
+npm install
+
+  ```
+
+Now you should be able to run Launchify locally and explore its features.
