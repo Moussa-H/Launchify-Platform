@@ -84,9 +84,9 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+### AI-Driven Strategy Generation for Startups:
 
-- This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
+- The AI strategy generation function integrates with OpenAI's GPT model to create personalized business strategies for startups. It pulls data specific to each startup, such as industry, key challenges, and goals, to generate five actionable strategies following a structured format. Each strategy includes a name, description, action steps, and potential challenges. The AI request is securely made using the OpenAI API, and the generated strategies are parsed, stored in the database, and returned as a response to the user. This process ensures tailored and relevant strategic insights to address the startup's unique circumstances.
 
 <br><br>
 
