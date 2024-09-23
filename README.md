@@ -65,9 +65,6 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 
 ### Admin Screens (Web)
 
-| Register screen                               | Login screen                                 | Landing screen                             |
-| --------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
-| ![Landing](./readme/Login.gif)                | ![fsdaf](./readme/Profile.gif)               | ![fsdaf](./readme/Profile.mp4)             |
 | Startup Profile screen                        | Investor Profile Screen                      | MEntor Profile Screen                      |
 | ![Landing](./readme/demo/Startup-Profile.jpg) | ![fsdaf](./readme/demo/Investor-Profile.jpg) | ![fsdaf](./readme/demo/Mentor-Profile.jpg) |
 
