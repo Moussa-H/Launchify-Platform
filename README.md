@@ -65,7 +65,7 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 
 ### Admin Screens (Web)
 
-| Register screen                               | Login screen                                 | Landing screen                             |
+|                              |                                 |                         |
 | --------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
 |                |              |            |
 | Startup Profile screen                        | Investor Profile Screen                      | MEntor Profile Screen                      |
