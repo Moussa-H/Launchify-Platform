@@ -9,19 +9,19 @@
 
 ### User Stories
 
-Startup
+#### Startup
 
 As a startup, I want to input my business data so I can receive tailored strategies to reach my goals.<br>
 As a startup, I want to track my financial performance using the finance dashboard, so I can make informed decisions.<br>
 As a startup, I want to request mentorship through the platform, so I can gain expert guidance and advice.<br>
 As a startup, I want to provide detailed information about my investment needs, so I can attract potential investors.<br>
 
-Investor
+#### Investor
 
 As an investor, I want to browse startup profiles and investment opportunities, so I can find projects that align with my interests.<br>
 As an investor, I want to view detailed startup information, so I can make informed investment decisions.<br>
 
-Mentor
+#### Mentor
 
 As a mentor, I want to accept or decline mentoring requests, so I can manage my engagements with startups effectively.<br>
 As a mentor, I want to offer advice and guidance to startups, so I can help them grow and succeed.
