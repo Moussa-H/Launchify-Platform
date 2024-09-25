@@ -60,7 +60,7 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 
 | Student Dashboard  |
 | ---|
-| ![Dashboard](./readme/assets/) |
+| ![Dashboard](./readme/Finance.png) |
 
 <br><br>
 
