@@ -50,6 +50,21 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 
 <br><br>
 
+
+### Mockups
+
+
+| Home screen  |
+| ---|
+| ![Landing](./readme/demo/Homepage.png) |
+
+| Student Dashboard  |
+| ---|
+| ![Dashboard](./readme/assets/) |
+
+<br><br>
+
+
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
 
