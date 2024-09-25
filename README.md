@@ -56,7 +56,7 @@ As a mentor, I want to offer advice and guidance to startups, so I can help them
 
 | Home screen  |
 | ---|
-| ![Landing](./readme/demo/Homepage.png) |
+| ![Landing](./readme/Homepage.png) |
 
 | Student Dashboard  |
 | ---|
